@@ -13,4 +13,4 @@ Conceitos utilizados:
 - ``CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/EdesioGoncalves/aluraplus/src)
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/EdesioGoncalves/aluraplus)
